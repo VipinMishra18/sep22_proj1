@@ -2,3 +2,5 @@ Hello a.txt
 
 some changes done by user01
 second line
+user02 has changed the file
+some content in second line
