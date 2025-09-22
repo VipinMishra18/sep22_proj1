@@ -1,2 +1,4 @@
 Hello a.txt
 
+user02 has changed a.txt
+this is another line
