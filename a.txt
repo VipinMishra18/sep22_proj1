@@ -2,3 +2,5 @@ Hello a.txt
 
 user02 has changed a.txt
 this is another line
+I'm rewriting a.txt 
+adding some more lines
